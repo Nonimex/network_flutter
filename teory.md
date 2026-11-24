@@ -46,13 +46,15 @@ de DRIFT (
 de Pub (
 dependencies:
 
-  drift: ^2.35.4
-  drift_flutter: ^0.3.1
-  path_provider: ^2.1.6
+  -drift: ^2.35.4
+  -drift_flutter: ^0.3.1
+  -path_provider: ^2.1.6
+
+
 
 dev_dependencies:
-  drift_dev: ^2.35.3
-  build_runner: ^2.15.1
+  -drift_dev: ^2.35.3
+  -build_runner: ^2.15.1
   
 )
 
@@ -70,3 +72,6 @@ dev_dependencies:
 
 ## Importar clases 
 * import 'package:network_db/networksimplepage.dart';
+
+## Syntax
+* final :es una palabra reservada que permite declarar variables cuyo valor solamente puede asignarse una vez.
