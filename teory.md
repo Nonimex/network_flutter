@@ -59,7 +59,7 @@ dev_dependencies:
 )
 
 
-- Para ejecutar y generar el archivo automatico en la terminal se puso: dart run build_runner build
+- Para ejecutar y generar el archivo .g automatico en la terminal se puso: dart run build_runner build
 
 
 # Otros 
