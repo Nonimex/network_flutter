@@ -19,7 +19,7 @@ import 'package:http/http.dart' as http;
 
 # DRIFT 
 
-importar las dependecias en archivo PUBSPEC.YAML
+- importar las dependecias en archivo PUBSPEC.YAML
 
 ```
 
@@ -57,6 +57,9 @@ dev_dependencies:
   -build_runner: ^2.15.1
   
 )
+
+
+- Para ejecutar y generar el archivo automatico en la terminal se puso: dart run build_runner build
 
 
 # Otros 
